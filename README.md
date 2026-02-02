@@ -1,1 +1,2 @@
-# Minigame
+# Windows Success
+Zeigt custom programmierbaren Text in verschiedenen Stilen auf dem Bildschirm an...
